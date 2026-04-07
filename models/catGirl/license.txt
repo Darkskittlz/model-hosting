@@ -1,11 +1,11 @@
 Model Information:
-* title:	The catgirl
-* source:	https://sketchfab.com/3d-models/the-catgirl-c596c6ada9344fde9c88a6ddb616d297
-* author:	FORD (https://sketchfab.com/FORD.Art)
+* title:	3D Anime Character girl for Blender C1
+* source:	https://sketchfab.com/3d-models/3d-anime-character-girl-for-blender-c1-4592848f6d2d47d1b0544e1ddbbc6e87
+* author:	CGCOOL (https://sketchfab.com/Youcef.Solo)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "The catgirl" (https://sketchfab.com/3d-models/the-catgirl-c596c6ada9344fde9c88a6ddb616d297) by FORD (https://sketchfab.com/FORD.Art) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "3D Anime Character girl for Blender C1" (https://sketchfab.com/3d-models/3d-anime-character-girl-for-blender-c1-4592848f6d2d47d1b0544e1ddbbc6e87) by CGCOOL (https://sketchfab.com/Youcef.Solo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
